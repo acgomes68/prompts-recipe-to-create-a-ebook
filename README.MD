@@ -30,8 +30,11 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Lexica](https://www.lexica.art/)
+- [Canva](https://www.canva.com)
+- [Gimp](https://www.gimp.org)
+- [Libreoffice Writer](https://pt-br.libreoffice.org/descubra/writer/)
+
 
 ## 🧠 Prompts
 
@@ -40,8 +43,9 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | cite 10 títulos para ebook referentes a temas interessantes de tecnologia da informação                                                         |
+| conteúdo | crie um ebook com o titulo "Inteligência Artificial na Prática: Como Implementar em Negócios |
+| conteúdo | crie um texto que explique O que é Inteligência Artificial? |
 
 
 Midjourney：
