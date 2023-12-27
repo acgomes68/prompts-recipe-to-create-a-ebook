@@ -48,16 +48,19 @@ ChatGPT：
 | conteúdo | crie um texto que explique O que é Inteligência Artificial? |
 
 
-Midjourney：
+Lexica：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| conteúdo | what's articial inteligence |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Lexica
+- Tratamento de imagens com Gimp
+- Criação das capas com Canva
+- Diagramação do conteúdo com Libreoffice Writer
 
 ## 📚 Materiais
 
